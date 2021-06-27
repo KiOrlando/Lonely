@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Lonely
 
-## Setup
+Lonely is a Minecraft Mod for the Fabric Mod Loader that can toggle generation of specific structures. 
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+![Screenshot](https://raw.githubusercontent.com/ZaOrlando/Lonely/main/Screenshot.png)
