@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "lonely",
+  "version": "${version}",
+  "name": "Lonely",
+  "description": "Lonely allows Minecraft to be completed and all items obtained without generated structures; Returning that lonely feel to Minecraft.",
+  "authors": [
+    "Zachary Orlando"
+  ],
+  "contact": {
+    "sources": "https://github.com/zaorlando/404"
+  },
+  "license": "MIT",
+  "icon": "assets/lonely/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [ "zaorlando.lonely.Lonely" ],
+    "modmenu": [ "zaorlando.lonely.config.ModMenuIntegration" ]
+  },
+  "mixins": [
+    "lonely.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.17.x",
+    "java": ">=16"
+  },
+  "suggests": {
+  }
+}

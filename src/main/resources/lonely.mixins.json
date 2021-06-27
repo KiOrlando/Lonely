@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "zaorlando.lonely.mixin",
+    "compatibilityLevel": "JAVA_16",
+    "mixins": [],
+    "client": [
+        "BiomeFeatureDisablerMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
