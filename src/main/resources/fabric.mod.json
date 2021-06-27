@@ -8,7 +8,7 @@
     "Zachary Orlando"
   ],
   "contact": {
-    "sources": "https://github.com/zaorlando/404"
+    "sources": "https://github.com/ZaOrlando/Lonely"
   },
   "license": "MIT",
   "icon": "assets/lonely/icon.png",
@@ -21,11 +21,13 @@
     "lonely.mixins.json"
   ],
   "depends": {
+    "cloth-config2": ">=5.0.34",
     "fabricloader": ">=0.11.3",
     "fabric": "*",
     "minecraft": "1.17.x",
     "java": ">=16"
   },
   "suggests": {
+    "modmenu": ">=2.0.2" 
   }
 }
